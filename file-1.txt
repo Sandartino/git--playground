@@ -1,2 +1,2 @@
-ccccccccc
-bbbbbbbbin detach mode
+bbbbbbbbin 
+detach mode
